@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wejdanalsharif](https://github.com/wejdanalsharif)
 
+- 💻 Always open for new opportunities and collaboration
+
 - 💬 You can always ask me about **Data Analysis ✌🏻**
 
 - 📫 How to reach me **w.h.s.9@hotmail.com**
