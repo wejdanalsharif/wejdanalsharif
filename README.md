@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wejdanalsharif&label=Profile%20views&color=0e75b6&style=flat" alt="wejdanalsharif" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning 🤓**
+- 🌱 I still call myself Data nerd in the making, and currently learning **Machine Learning 🤓**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wejdanalsharif](https://github.com/wejdanalsharif)
 
